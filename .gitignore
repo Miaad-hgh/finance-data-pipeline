@@ -1,0 +1,13 @@
+# Ignore Python environments and caches
+venv/
+__pycache__/
+*.pyc
+
+# Ignore data files (if large or private)
+data/*.csv
+
+# Ignore secrets
+.env
+
+# Ignore system files
+.DS_Store
